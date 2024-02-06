@@ -4,7 +4,7 @@
 
   [![Yandex](https://img.shields.io/badge/-klounlil@ya.ru-F9DB60?style=flat-square&logo=Yandex&logoColor=FF3333)](mailto:klounlil@ya.ru)
   [![Yandex](https://img.shields.io/badge/-i@kugubaev.ru-F9DB60?style=flat-square&logo=Yandex&logoColor=FF3333)](mailto:i@kugubaev.ru)
-  [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/crokod1le){:target="_blank"}
+  [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/crokod1le)
 
 # My World as a Tester and Data Analyst
 
