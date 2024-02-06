@@ -3,4 +3,5 @@
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 
   [![Yandex](https://img.shields.io/badge/-klounlil@ya.ru-F9DB60?style=flat-square&logo=Yandex&logoColor=FF3333)](mailto:klounlil@ya.ru)
+  [![Yandex](https://img.shields.io/badge/-klounlil@ya.ru-F9DB60?style=flat-square&logo=Yandex&logoColor=FF3333)](mailto:i@kugubaev.ru)
   [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/crokod1le)
